@@ -1,0 +1,94 @@
+$button-color: #f06724;
+@mixin two-button {
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-align: center;
+  padding: 1.2rem;
+  font-weight: bold;
+  width: auto;
+}
+
+.paragraph span {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-left: 5px;
+  font-weight: 700;
+  color: #ffffffb3;
+  font-size: 14px;
+}
+.text {
+  font-size: 36px;
+  font-weight: 600;
+}
+.text-paragraph {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+  line-height: 1.8;
+}
+
+.bottom-button {
+  border: 1px solid $button-color !important;
+  color: #fff !important;
+  background-color: $button-color !important;
+  @include two-button;
+}
+
+.course {
+  background-color: white !important;
+  @include two-button;
+  color: $button-color;
+  border: none;
+}
+.course:hover {
+  color: $button-color;
+}
+@media screen and (max-width: 800px) {
+  .contact {
+    display: none;
+  }
+  .paragraph {
+    margin-top: 3rem !important;
+  }
+  .course,
+  .bottom-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  .paragraph {
+    margin-top: 5rem !important;
+  }
+}
+@media (min-width: 701px) and (max-width: 1140px) {
+  .course,
+  .bottom-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 1px !important;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .text {
+    font-size: 28px;
+    font-weight: 600;
+  }
+}
+
+.pic-body {
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+
+  height: 50vh;
+  width: auto;
+  margin: auto;
+}
+@media screen and (max-width: 600px) {
+  .pic-body {
+    background-size: contain;
+  }
+}

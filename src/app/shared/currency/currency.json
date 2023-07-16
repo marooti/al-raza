@@ -1,0 +1,399 @@
+{
+    "currency": [
+        {
+            "name": "Pakistani Rupee",
+            "value": "PKR",
+            "currency": "RS"
+        },
+        {
+            "name": "US Dollar",
+            "value": "USD",
+            "currency": "$"
+        },
+        {
+            "name": "Afghan Afghani",
+            "value": "AFN",
+            "currency": "؋"
+        },
+        {
+            "name": "Albanian Lek",
+            "value": "ALL",
+            "currency": "Lek"
+        },
+        {
+            "name": "Algerian Dinar",
+            "value": "DZD",
+            "currency": "دج"
+        },
+        {
+            "name": "Euro",
+            "value": "EUR",
+            "currency": "€"
+        },
+        {
+            "name": "Angolan Kwanza",
+            "value": "AOA",
+            "currency": "Kz"
+        },
+        {
+            "name": "East Caribbean Dollar",
+            "value": "XCD",
+            "currency": "$"
+        },
+        {
+            "name": "Argentine Peso",
+            "value": "ARS",
+            "currency": "$"
+        },
+        {
+            "name": "Armenian Dram",
+            "value": "AMD",
+            "currency": "դր"
+        },
+        {
+            "name": "Australian Dollar",
+            "value": "AUD",
+            "currency": "$"
+        },
+        {
+            "name": "Azerbaijan Manat",
+            "value": "AZN",
+            "currency": "₼"
+        },
+        {
+            "name": "Bahamian Dollar",
+            "value": "BSD",
+            "currency": "$"
+        },
+        {
+            "name": "Bahraini Dinar",
+            "value": "BHD",
+            "currency": ".د.ب"
+        },
+        {
+            "name": "Bangladeshi Taka",
+            "value": "BDT",
+            "currency": "৳"
+        },
+        {
+            "name": "Barbados Dollar",
+            "value": "BBD",
+            "currency": "$"
+        },
+        {
+            "name": "Belarusian Ruble",
+            "value": "BYR",
+            "currency": "Br"
+        },
+        {
+            "name": "Belize Dollar",
+            "value": "BZD",
+            "currency": "BZ$"
+        },
+        {
+            "name": "Bhutanese Ngultrum",
+            "value": "BTN",
+            "currency": "Nu."
+        },
+        {
+            "name": "Indian Rupee",
+            "value": "INR",
+            "currency": "₹"
+        },
+        {
+            "name": "Boliviano",
+            "value": "BOB",
+            "currency": "$b"
+        },
+        {
+            "name": "Convertible Mark",
+            "value": "BAM",
+            "currency": "KM"
+        },
+        {
+            "name": "Pula",
+            "value": "BWP",
+            "currency": " P"
+        },
+        {
+            "name": "Brazilian Real",
+            "value": "BRL",
+            "currency": "R$"
+        },
+        {
+            "name": "Brunei Dollar",
+            "value": "BND",
+            "currency": "$"
+        },
+        {
+            "name": "Bulgarian Lev",
+            "value": "BGN",
+            "currency": "лв"
+        },
+        {
+            "name": "Burundi Franc",
+            "value": "BIF",
+            "currency": "FBu"
+        },
+        {
+            "name": "Cambodian Riel",
+            "value": "KHR",
+            "currency": "៛"
+        },
+        {
+            "name": "CFA Franc BEAC",
+            "value": "XAF",
+            "currency": "៛"
+        },
+        {
+            "name": "Canadian Dollar",
+            "value": "CAD",
+            "currency": "$"
+        },
+        {
+            "name": "Cape Verde Escudo",
+            "value": "CVE",
+            "currency": "$"
+        },
+        {
+            "name": "Cayman Islands Dollar",
+            "value": "KYD",
+            "currency": "$"
+        },
+        {
+            "name": "Chilean Peso",
+            "value": "CLP",
+            "currency": "$"
+        },
+        {
+            "name": "Renminbi",
+            "value": "CNY",
+            "currency": "¥"
+        },
+        {
+            "name": "Colombian Peso",
+            "value": "COP",
+            "currency": "$"
+        },
+        {
+            "name": "Comoro Franc",
+            "value": "KMF",
+            "currency": "CF"
+        },
+        {
+            "name": "New Zealand Dollar",
+            "value": "NZD",
+            "currency": "$"
+        },
+        {
+            "name": "Croatian Kuna",
+            "value": "HRK",
+            "currency": "kn"
+        },
+        {
+            "name": "Cuban Peso",
+            "value": "CUP",
+            "currency": "$"
+        },
+        {
+            "name": "Czech Koruna",
+            "value": "CZK",
+            "currency": "Kč"
+        },
+        {
+            "name": "Djibouti Franc",
+            "value": "DJF",
+            "currency": "Fdj"
+        },
+        {
+            "name": "East Caribbean Dollar",
+            "value": "XCD",
+            "currency": "$"
+        },
+        {
+            "name": "Dominican Peso",
+            "value": "DOP",
+            "currency": "RD$"
+        },
+        {
+            "name": "Egyptian Pound",
+            "value": "EGP",
+            "currency": "£"
+        },
+        {
+            "name": "Nakfa",
+            "value": "ERN",
+            "currency": "ናቕፋ"
+        },
+        {
+            "name": "Ethiopian Birr",
+            "value": "ETB",
+            "currency": "ብር"
+        },
+        {
+            "name": "Falkland Islands pound",
+            "value": "FKP",
+            "currency": "FKP"
+        },
+        {
+            "name": "Fiji Dollar",
+            "value": "FJD",
+            "currency": "$"
+        },
+        {
+            "name": "Dalasi",
+            "value": "GMD",
+            "currency": "D"
+        },
+        {
+            "name": "Lari",
+            "value": "GEL",
+            "currency": "ლ"
+        },
+        {
+            "name": "Cedi",
+            "value": "GHC",
+            "currency": "¢"
+        },
+        {
+            "name": "Gibraltar Pound",
+            "value": "GIP",
+            "currency": "£"
+        },
+        {
+            "name": "Danish Krone",
+            "value": "DKK",
+            "currency": "kr."
+        },
+        {
+            "name": "East Caribbean Dollar",
+            "value": "XCD",
+            "currency": "$"
+        },
+        {
+            "name": "Quetzal",
+            "value": "GTQ",
+            "currency": "Q"
+        },
+        {
+            "name": "Guinea Franc",
+            "value": "GNF",
+            "currency": "FG"
+        },
+        {
+            "name": "Guinea-Bissau Peso",
+            "value": "GWP",
+            "currency": "GWP"
+        },
+        {
+            "name": "Guyana Dollar",
+            "value": "GYD",
+            "currency": "$"
+        },
+        {
+            "name": "Haitian Gourde",
+            "value": "HTG",
+            "currency": "G"
+        },
+        {
+            "name": "Lempira",
+            "value": "HNL",
+            "currency": "L"
+        },
+        {
+            "name": "Hong Kong Dollar",
+            "value": "HKD",
+            "currency": "$"
+        },
+        {
+            "name": "Forint",
+            "value": "HUF",
+            "currency": "Ft"
+        },
+        {
+            "name": "Rupiah",
+            "value": "IDR",
+            "currency": "Rp"
+        },
+        {
+            "name": "Iranian Rial",
+            "value": "IRR",
+            "currency": "﷼"
+        },
+        {
+            "name": "Iraqi Dinar",
+            "value": "IQD",
+            "currency": "ع.د"
+        },
+        {
+            "name": "New Israeli Sheqel",
+            "value": "ILS",
+            "currency": "₪"
+        },
+        {
+            "name": "Jamaican Dollar",
+            "value": "JMD",
+            "currency": "J$"
+        },
+        {
+            "name": "Yen",
+            "value": "JPY",
+            "currency": "¥"
+        },
+        {
+            "name": "Jordanian Dinar",
+            "value": "JOD",
+            "currency": "د.ا"
+        },
+        {
+            "name": "Tenge",
+            "value": "KZT",
+            "currency": "лв"
+        },
+        {
+            "name": "Kenyan Shilling",
+            "value": "KES",
+            "currency": "KSH"
+        },
+        {
+            "name": "Won",
+            "value": "KRW",
+            "currency": "₩"
+        },
+        {
+            "name": "Kuwaiti Dinar",
+            "value": "KWD",
+            "currency": "د.ك"
+        },
+        {
+            "name": "Som",
+            "value": "KGS",
+            "currency": "лв"
+        },
+        {
+            "name": "Kip",
+            "value": "LAK",
+            "currency": "₭"
+        },
+        {
+            "name": "Lebanese Pound",
+            "value": "LBP",
+            "currency": "£"
+        },
+        {
+            "name": "Liberian Dollar",
+            "value": "LRD",
+            "currency": "$"
+        },
+        {
+            "name": "Swiss Franc",
+            "value": "CHF",
+            "currency": "CHF"
+        },
+        {
+            "name": "Macedonian Denar",
+            "value": "MKD",
+            "currency": "ден"
+        }
+    ]
+}

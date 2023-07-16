@@ -1,0 +1,75 @@
+<div class="col-12 p-0">
+  <div class="lg:col-11  col-12 flex lg:py-0 lg:m-auto">
+    <div class="flex lg:col-4 col-12 md:px-3 p-0 justify-content-between ACADEMIA">
+      <div class="acadmy flex pt-0  pt-0 col-8 lg:col-4">
+        <a routerLink="/"> <img src="../../../assets/property-logo.png" style="height:120px; width:220px"/></a>
+      </div>
+      <div class="align-items-center justify-content-end menuButton col-4 lg:hidden block flex">
+        <p-button class="lg:hidden block" type="button" (click)="visibleSidebar2 = true"
+          icon="pi pi-align-justify"></p-button>
+      </div>
+    </div>
+
+    <!-- students -->
+
+    <div class="col-6 lg:flex hidden">
+      <div class="clock align-items-center flex flex-row">
+        <a class="flex flex-row-reverse align-items-center font-medium" routerLink="/students" routerLinkActive="active-link"
+          [routerLinkActiveOptions]="{ exact: true }" style="color: white;">
+          Home
+          <div class="my-auto">
+            <img src="../../../assets/Icons/cap.png" class="pr-3" />
+          </div>
+        </a>
+      </div>
+      <!-- Recruiters -->
+      <div class="clock text-white ml-7 align-items-center flex flex-row">
+        <a class="flex flex-row-reverse align-items-center font-medium" routerLink="/recruiters" routerLinkActive="active-link"
+          [routerLinkActiveOptions]="{ exact: true }" style="color: white">Pages
+          <div class="my-auto">
+            <img src="../../../assets/Icons/search.png" class="pr-3" />
+          </div>
+        </a>
+      </div>
+      <!-- Institutes -->
+      <div class="clock text-white pl-7 align-items-center flex flex-row">
+        <a class="flex flex-row-reverse align-items-center font-medium" routerLink="/institutes" routerLinkActive="active-link"
+          [routerLinkActiveOptions]="{ exact: true }" style="color: white">Blogs
+          <div class="my-auto">
+            <img src="../../../assets/Icons/bank.png" class="pr-3" />
+          </div>
+        </a>
+      </div>
+    </div>
+    <!-- button -->
+    <div class="clock col-2 text-white p-2 align-items-center justify-content-end flex flex-row">
+      <button mat-icon-button [matMenuTriggerFor]="menu" aria-label="Example icon-button with a menu ">
+        <div class="pi pi-align-justify ">
+        </div>
+      </button>
+      <mat-menu #menu="matMenu">
+        <button mat-menu-item>
+          <h5 routerLink="blogPage" (click)="scrollPage()" class="m-0">
+            Blogs
+          </h5>
+        </button>
+        <button mat-menu-item>
+          <h5 routerLink="recent-blogs" (click)="scrollPage()" class="m-0">
+            Recent-Blogs
+          </h5>
+        </button>
+        <button mat-menu-item>
+          <h5 routerLink="programs" (click)="scrollPage()" class="m-0">
+            Solutions
+          </h5>
+        </button>
+      </mat-menu>
+      <a href="http://wa.me/+923000512810" target="_blank" width="100px">
+      <button pButton type="button" width="100px" label="CONTACT" class="contactButton col-9 font-medium text-base" 
+        routerLink="/contact" routerLinkActive="contact-active-link" style="width: 100px;"
+        [routerLinkActiveOptions]="{ exact: true }">
+      </button>
+      </a>
+    </div>
+  </div>
+</div>

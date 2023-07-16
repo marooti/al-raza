@@ -1,0 +1,64 @@
+.heading {
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 52px;
+    color: #001D38;
+    position: relative;
+    z-index: 0;
+    padding-bottom: 19px;
+}
+
+.show-btn {
+    border-radius: 30px;
+    color: #FDAE5C !important;
+    display: inline-block;
+    padding: 14px 31px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    border: 0;
+    border: 1px solid #FDAE5C;
+}
+.show-btn:hover {
+    color: #fff !important;
+    border: 1px solid transparent;
+    background: #fdae5c;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 14px 31px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    border: 0;
+    border: 1px solid #FDAE5C;
+}
+
+.btn {
+    display: inline-block;
+    background: #00D363;
+    border-color: #00D363;
+    border-radius: 30px;
+    padding: 9px 18px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 13px;
+    margin-top: 13px;
+}
+
+.sale-btn {
+    display: inline-block;
+    background: #FF5748;
+    border-color: #FF5748;
+    border-radius: 30px;
+    padding: 9px 18px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 13px;
+    margin-top: 13px;
+}
+
+.border-top-1 {
+    color: #aca9a9;
+}

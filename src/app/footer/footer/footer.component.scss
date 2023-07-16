@@ -1,0 +1,109 @@
+/* Navbar */
+$text-color: white;
+footer {
+  border-top: 6px solid #f06724;
+  background-color: #001D38;
+  
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid $text-color;
+  outline: none;
+  background-color: transparent;
+}
+.pInputText:active {
+  outline: none;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+  color: $text-color;
+  font-size: 17px;
+}
+
+a:hover {
+  color: #ff8c01;
+}
+
+.social-icon .pi {
+  color: $text-color;
+  background: bisque;
+  // font-size: 18px;
+  .pi {
+    font-size: 34px;
+    color: #f06724 !important;
+    line-height: 1;
+  }
+}
+li {
+  color: $text-color !important;
+}
+
+.pi:before {
+  --webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  color: #f06724;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.icon {
+  line-height: 40px;
+
+  width: 40px;
+  height: 40px;
+  margin: auto;
+  cursor: pointer;
+  border-radius: 50%;
+
+  margin-left: 15px;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.2);
+}
+.border-top-3{
+  border-top: 3px solid #f06724;
+}
+.icon:hover {
+  background-color: $text-color;
+}
+.content img {
+  width: 250px;
+  margin-top: -12px;
+  cursor: pointer;
+}
+@media screen and (max-width: 1024px) {
+  .icon {
+    margin-left: 0px;
+    margin-right: 14px;
+  }
+  .address {
+    margin-left: 2rem;
+  }
+}
+
+.address {
+  text-indent: -2rem;
+}
+
+.ticktokStyle {
+  line-height: 40px;
+  width: 40px;
+  background: bisque !important;
+  height: 40px;
+  margin: auto;
+  cursor: pointer;
+  border-radius: 50%;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.2);
+}
+.icon-cog {
+  color: #f06624 !important;
+}
+
+@media screen and 
+(min-width: 1024px) {
+  .ticktokStyle {
+    margin-left: 15px;
+  }
+}

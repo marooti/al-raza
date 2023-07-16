@@ -1,0 +1,33 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "f230fh0g3",
+            "icon":"src/assets/women.PNG",
+			"name": "ROGER SCOTT",
+			"category": "CEO",
+			"description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+			"image": "user.webp"
+		},
+		{
+			"id": "1001",
+			"code": "nvklal433",
+			"icon":".././src/assets/women.PNG",
+			"name": "Zaiden",
+			"category": "MARKETING MANAGER",
+			"description": "I highly recommend Breeo International. Breeo staff is highly professional and cooperative. I am glad that I chose Breeo. Thumbs up!",
+			"image": "icon_image.webp"
+		},
+		{
+			"id": "1002",
+			"code": "zz21cz3c1",
+			"icon":"src/assets/women.PNG",
+			"name": "Akahsa",
+			"category": "MARKETING MANAGER",
+			"description": "I would like to thank team Breeo internationals for my admission in the university of Portsmouth through out the process they helped!",
+			"image": "registration.png"
+		}
+		
+		
+	]
+}

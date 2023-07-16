@@ -1,0 +1,41 @@
+.myVideo {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("../../../assets/home-page/banner.png.png");
+  width: 100%;
+  height: 100%;
+  margin-top: -140px;
+}
+
+@media screen and (max-width: 600px) {
+  .myVideo {
+    background-position-y: bottom;
+    background-position-x: -300px;
+    background-size: cover !important;
+    // background-image: url("../../../../assets/home_mobileview.gif") !important;
+  }
+}
+
+@media all and (min-width: 601px) and (max-width: 1024px) {
+  .myVideo {
+    // background-position: center;
+    // background-image: url("../../../../assets/home_mobileview.gif") !important;
+    background-size: cover !important;
+    min-height: 60vh;
+  }
+}
+
+.hometext {
+  margin-top: 180px;
+  // background-image: url("");
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  font-weight: 600;
+  line-height: 70px;
+  margin-bottom: 15px;
+  color: #fff;
+}

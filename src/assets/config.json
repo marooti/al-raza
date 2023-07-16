@@ -1,0 +1,9 @@
+{
+  "apiUrl": "https://hsumlup6ai.execute-api.ca-central-1.amazonaws.com/dev",
+  "accessKeyId": "AKIA3KSHDJEH3J7TZRGX",
+  "secretAccessKey": "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",
+  "region": "ca-central-1",
+  "s3Bucket": "orange-traders-upload-file-to-s3-ca-central-1",
+  "userPoolId": "ca-central-1_YHaIPG4wa",
+  "clientId": "7j7ptms0l6ppq5cspl8v3rdbjp"
+}
